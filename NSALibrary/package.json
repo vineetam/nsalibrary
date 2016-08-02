@@ -1,0 +1,39 @@
+{
+  "name": "nationalservicealliance",
+  "version": "1.0.0",
+  "description": "It is a node js library",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^1.10.0",
+    "chai-as-promised": "^4.1.1",
+    "istanbul": "^0.4.4",
+    "mocha": "^2.5.3"
+  },
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "chai-as-promised": "^4.1.1",
+    "istanbul": "^0.4.4",
+    "mocha": "^2.5.3"
+  },
+  "scripts": {
+    "test": "mocha",
+    "coverage": " istanbul cover node_modules/mocha/bin/_mocha -- -R spec"
+   
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nsalliance/mobileAPI.git"
+  },
+  "keywords": [
+    "nsa"
+  ],
+  "author": "nsa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nsalliance/mobileAPI/issues"
+  },
+  "homepage": "https://github.com/nsalliance/mobileAPI#readme"
+}
