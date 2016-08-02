@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/nsalliance/mobileAPI.git"
+    "url": "git://github.com/vineetam/nsalibrary"
   },
   "keywords": [
     "nsa"
@@ -33,7 +33,7 @@
   "author": "nsa",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nsalliance/mobileAPI/issues"
+    "url": "https://github.com/vineetam/nsalibrary/issues"
   },
-  "homepage": "https://github.com/nsalliance/mobileAPI#readme"
+  "homepage": "https://github.com/vineetam/nsalibrary#readme"
 }
