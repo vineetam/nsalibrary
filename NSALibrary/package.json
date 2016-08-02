@@ -7,10 +7,7 @@
     "test": "test"
   },
   "dependencies": {
-    "chai": "^1.10.0",
-    "chai-as-promised": "^4.1.1",
-    "istanbul": "^0.4.4",
-    "mocha": "^2.5.3"
+   
   },
   "devDependencies": {
     "chai": "^1.10.0",
